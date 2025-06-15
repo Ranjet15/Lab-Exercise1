@@ -1,3 +1,3 @@
 export default function Page() {
-    return <p>Search Page</p>;
+    return <p>Contact Us Page</p>;
   }
